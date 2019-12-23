@@ -1,3 +1,7 @@
+pkg install curl -y
+pkg install php -y
+pkg install dropbear -y
+pkg install openssh -y
 clear
 echo ' _   _      ____  _ __   __'
 echo '| \ | | ___|  _ \| |\ \ / /_  __'
